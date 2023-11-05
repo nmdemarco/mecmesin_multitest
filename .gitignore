@@ -27,3 +27,27 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Visual Studio Code settings
+.vscode/
+
+# Python-specific settings (if using Python extension)
+.python-version
+.pythonPath
+
+# Cache and workspace files
+.vscode-server/
+.vscode-test/
+.vscode-workspace.json
+
+# User-specific settings (if using the "settings.json" file)
+.code-workspace
+
+# Debug logs
+*.njsproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
